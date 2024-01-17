@@ -10,7 +10,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
--   :telescope: Разработка конфигуратора в Rhinoceros 3D и Grasshopper.
+-   :telescope: Разрабатывал конфигуратор в Rhinoceros 3D и Grasshopper.
 
 -   :seedling: Проектировал полный стек веб-сайта, включая разработку как клиентской, так и серверной части!
 
