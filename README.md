@@ -16,7 +16,7 @@
 
 -   :zap: Ответственный, целеустремленный и самоорганизованный. Готов к обучению и приобретению новых навыков.
 
--   :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kkiVel_1-white?style=flat&logo=Telegram&logoColor=black)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirill2002ku@gmail.com)
+-   :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kkiVel_1-white?style=flat&logo=Telegram&logoColor=black)](https://t.me/kkiVel_1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirill2002ku@gmail.com)
 
 ---
 
