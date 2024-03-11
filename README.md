@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-I’m frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+-   I’m frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
 -   ✍  I enjoy designing and creating more user-friendly websites and apps.
     
