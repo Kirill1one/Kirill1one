@@ -4,14 +4,12 @@
 
 ### :man_technologist: Обо мне:
 
-Я Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Умею делать адаптивную верстку по макету (в основном figma), в качестве верстальщика, использую HTML5, CSS, SASS, SCSS, JS. Также стараюсь следовать метологии BEM, использую семантическую верстку.
+Я Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Трачу большую часть своего времени на изучение новых
+технологий и оттачивания имеющихся навыков.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
--   :telescope: Разрабатывал конфигуратор в Rhinoceros 3D и Grasshopper.
-
 
 -   :zap: Ответственный, целеустремленный и самоорганизованный. Готов к обучению и приобретению новых навыков.
 
