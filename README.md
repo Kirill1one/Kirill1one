@@ -1,23 +1,26 @@
-# Привет, меня зовут Кирилл!
+# Hello, my name is Kirill!
 
 ---
 
 ### :man_technologist: Обо мне:
 
-Я Frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Трачу большую часть своего времени на изучение новых
-технологий и оттачивания имеющихся навыков.
+I’m frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+
+-   ✍  I enjoy designing and creating more user-friendly websites and apps.
+    
+-   🔭 I spend most of my time learning new technologies and honing existing skills.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
--   :zap: Ответственный, целеустремленный и самоорганизованный. Готов к обучению и приобретению новых навыков.
+-   :zap: Responsible, purposeful and self-organized. Ready to learn and acquire new skills.
 
--   :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kkiVel_1-white?style=flat&logo=Telegram&logoColor=black)](https://t.me/kkiVel_1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirill2002ku@gmail.com)
+-   :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kkiVel_1-white?style=flat&logo=Telegram&logoColor=black)](https://t.me/kkiVel_1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirill2002ku@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social network:
 
   <div id="badges">
     <a href="https://t.me/kkiVel_1" target="_blank">
@@ -30,7 +33,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -45,7 +48,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
@@ -56,7 +59,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
