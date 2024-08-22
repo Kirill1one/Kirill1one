@@ -16,7 +16,7 @@
 
 -   :zap: Responsible, purposeful and self-organized. Ready to learn and acquire new skills.
 
--   :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kkiVel_1-white?style=flat&logo=Telegram&logoColor=black)](https://t.me/kkiVel_1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirill2002ku@gmail.com)
+-   :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kkiVel_1-white?style=flat&logo=Telegram&logoColor=black)](https://t.me/kiVelq) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirill2002ku@gmail.com)
 
 ---
 
